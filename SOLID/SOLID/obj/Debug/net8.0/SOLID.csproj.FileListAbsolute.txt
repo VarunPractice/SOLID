@@ -1,0 +1,15 @@
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.sourcelink.json
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\Varun\GitHubCode\SOLID\SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
