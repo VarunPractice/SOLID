@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using SOLID.DIP;
 using SOLID.LSP;
 using SOLID.OCP;
 
@@ -10,5 +11,14 @@ using SOLID.OCP;
 //var key1 = Console.ReadLine();
 //RenewableLicense renewLic=new RenewableLicense();
 //renewLic.RenewLic(key1);
-IUnit unit = new PressureUnit();
+IRenewablelLicense license = new SoftwareLicense();
+license.InstallLicense("hello");
+license.RenewLicense("hello");
+license.ReturnInstalledLicense("hello");
+
+SOLID.DIP.ILicense StatiClic = new HardwareLicense();
+StatiClic.InstallLicense("hello");
+StatiClic.ReturnInstalledLicense("Hello");
+
+    IUnit unit = new PressureUnit();
 unit.convert(unit, 23.7, unit, 23); 
